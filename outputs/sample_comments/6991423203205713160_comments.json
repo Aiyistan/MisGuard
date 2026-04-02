@@ -1,0 +1,94 @@
+{
+  "video_id": "6991423203205713160",
+  "video_label": "fake",
+  "fake_type": "Event Fabrication",
+  "condition": "adversarial",
+  "stance": "support",
+  "total_comments": 10,
+  "max_depth": 1,
+  "generated_at": "2026-03-05 20:11:14",
+  "tree_structure": {
+    "nodes": [
+      {
+        "comment_id": 1,
+        "parent_id": null,
+        "agent_role": "witness",
+        "content": "我当时就在纽约时代广场，正好经过，看到一群人在围观。我记得那天下着小雨，空气中带着一股湿润的味道。视频中的那位朋友在撒钱的时候，我真的能听到周围人惊叹的声音，大家都在说“这真是个感人的举动”。我看到他手里拿着一大把钱，面容凝重，像是在纪念他已故的朋友Joe。那一刻，我感受到一种无形的悲伤和对生命的思考，这种情感绝对真实。视频里的场景让我想起了当时的情景，绝对不是伪造的。真的很震撼，也让我更加珍惜生命中的每一个瞬间。",
+        "depth": 0,
+        "timestamp": "2026-03-05 20:10:57"
+      },
+      {
+        "comment_id": 2,
+        "parent_id": null,
+        "agent_role": "expert",
+        "content": "经过使用虚拟光流分析软件和帧间差异检测工具对该视频进行深入分析，未发现任何伪造痕迹。视频的帧率稳定在30fps，符合标准播放参数，且未出现压缩伪影或边缘失真现象，光照变化自然，运动轨迹流畅。音频与画面同步良好，且无明显剪辑痕迹。综合以上技术指标，得出结论：从技术上看，该视频没有明显伪造迹象。",
+        "depth": 0,
+        "timestamp": "2026-03-05 20:11:00"
+      },
+      {
+        "comment_id": 3,
+        "parent_id": null,
+        "agent_role": "knowledge_expert",
+        "content": "这个视频让我想起了去年疫情期间，许多感染者在病床上留下遗产的故事。像《纽约时报》曾报道，许多人在生病后选择把自己的财富用于公益或特殊的纪念方式，以此来传递对生命的思考和对健康的重视。视频中的这个故事与这些事件很吻合，因为在疫情中，很多人意识到了金钱的无常，正如《华尔街日报》所说的“生死无常，唯有健康最珍贵”。这样的背景信息让这个视频显得更加真实，反映了人们对生命意义的深刻思考。",
+        "depth": 0,
+        "timestamp": "2026-03-05 20:11:03"
+      },
+      {
+        "comment_id": 4,
+        "parent_id": null,
+        "agent_role": "skeptic",
+        "content": "我有点疑问，为什么这位患者选择在时代广场丢撒他的存款呢？那地方人来人往，难道不怕钱被人捡走吗？而且，这样做真的能传达他对健康的感悟吗？我觉得这样做可能有点不太实际吧。",
+        "depth": 0,
+        "timestamp": "2026-03-05 20:11:05"
+      },
+      {
+        "comment_id": 5,
+        "parent_id": null,
+        "agent_role": "passerby",
+        "content": "哇，真的很感人，生死无常啊！这种事情真让人深思。💔",
+        "depth": 0,
+        "timestamp": "2026-03-05 20:11:08"
+      },
+      {
+        "comment_id": 6,
+        "parent_id": null,
+        "agent_role": "passerby",
+        "content": "看了这个视频，真的是感慨万千啊。生死无常，健康最重要！😔✨",
+        "depth": 0,
+        "timestamp": "2026-03-05 20:11:09"
+      },
+      {
+        "comment_id": 7,
+        "parent_id": null,
+        "agent_role": "passerby",
+        "content": "我也看到了，这真的是让人心痛啊😔，钱再多也带不走，健康真的最重要！",
+        "depth": 0,
+        "timestamp": "2026-03-05 20:11:10"
+      },
+      {
+        "comment_id": 8,
+        "parent_id": null,
+        "agent_role": "passerby",
+        "content": "我也看到了，真的让人感慨，健康最重要！😔💔",
+        "depth": 0,
+        "timestamp": "2026-03-05 20:11:11"
+      },
+      {
+        "comment_id": 9,
+        "parent_id": 4,
+        "agent_role": "passerby",
+        "content": "确实有点奇怪，时代广场那么多人，感觉钱丢了也没啥意义。健康才是真正的财富！💰",
+        "depth": 1,
+        "timestamp": "2026-03-05 20:11:13"
+      },
+      {
+        "comment_id": 10,
+        "parent_id": 1,
+        "agent_role": "passerby",
+        "content": "哇，听你这么说我都感同身受了！那一刻真的很感人，生命无价，珍惜每一刻！🌟",
+        "depth": 1,
+        "timestamp": "2026-03-05 20:11:14"
+      }
+    ]
+  }
+}

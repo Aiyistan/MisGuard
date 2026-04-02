@@ -1,0 +1,94 @@
+{
+  "video_id": "BV18N4y1w7t7",
+  "video_label": "real",
+  "fake_type": "Authentic",
+  "condition": "adversarial",
+  "stance": "doubt",
+  "total_comments": 10,
+  "max_depth": 1,
+  "generated_at": "2026-03-05 18:36:24",
+  "tree_structure": {
+    "nodes": [
+      {
+        "comment_id": 1,
+        "parent_id": null,
+        "agent_role": "witness",
+        "content": "我当时就在现场，视频中所说的内容根本没有发生。我们是在比赛的起点，大家都在准备，但视频里却只是一段重复的台词，完全没有记录下真实的氛围。实际情况是，现场有很多观众在讨论比赛的策略，大家都很兴奋，根本没有人像视频里那样一直在说“我要回到起点”。此外，视频里的对话内容与当时的氛围完全不符，感觉像是被剪辑或者篡改过。我真的很困惑，为什么会有这样失真的内容出现？这是不是在误导观众？",
+        "depth": 0,
+        "timestamp": "2026-03-05 18:36:05"
+      },
+      {
+        "comment_id": 2,
+        "parent_id": null,
+        "agent_role": "expert",
+        "content": "在该视频中，我注意到几个可疑的技术异常。首先，嘴型与音频不完全同步，这可能表明使用了深度伪造（deepfake）技术，导致表情与发音不匹配。其次，光线在不同镜头之间存在不一致，可能是后期处理不当或合成效果的缺陷。此外，边缘模糊现象表明视频可能经过了不当的图像处理。这些异常可能源自AI生成技术，如GAN（生成对抗网络），其在合成真实图像时仍存在局限性。因此，视频的真实性值得进一步质疑。",
+        "depth": 0,
+        "timestamp": "2026-03-05 18:36:09"
+      },
+      {
+        "comment_id": 3,
+        "parent_id": null,
+        "agent_role": "knowledge_expert",
+        "content": "这个视频的内容似乎与我们已知的事实不符，尤其是它反复提到的“回到起点”没有明确的上下文。根据官方报道，比如某些新闻机构的调查，这种反复强调常常是为了误导观众，制造某种情绪。我怀疑这个视频的真实性，因为它缺乏必要的信息和背景，可能是为了吸引眼球或传播特定的观点。你觉得这个视频的来源是否可靠呢？",
+        "depth": 0,
+        "timestamp": "2026-03-05 18:36:12"
+      },
+      {
+        "comment_id": 4,
+        "parent_id": null,
+        "agent_role": "skeptic",
+        "content": "这个视频显然是经过深度伪造处理的！首先，人物的表情异常僵硬，根本没有自然的情感流露，尤其是眨眼和嘴型的同步感极差，给人一种机械感。此外，光影变化不自然，似乎没有真正的光源变化。这样的细节对比真实视频显得格外突兀。我通过深度伪造检测工具发现，这种不自然的表现是AI生成内容的典型特征。请大家务必提高警惕，别被这些伪造视频所迷惑！",
+        "depth": 0,
+        "timestamp": "2026-03-05 18:36:14"
+      },
+      {
+        "comment_id": 5,
+        "parent_id": null,
+        "agent_role": "passerby",
+        "content": "这个视频感觉有点奇怪吧？🤔 不知道是不是在骗我们，大家觉得呢？",
+        "depth": 0,
+        "timestamp": "2026-03-05 18:36:16"
+      },
+      {
+        "comment_id": 6,
+        "parent_id": null,
+        "agent_role": "passerby",
+        "content": "这个视频感觉怪怪的，有点不可信啊 🤔大家都是这么觉得吗？",
+        "depth": 0,
+        "timestamp": "2026-03-05 18:36:18"
+      },
+      {
+        "comment_id": 7,
+        "parent_id": null,
+        "agent_role": "passerby",
+        "content": "这个视频感觉怪怪的啊，真的靠谱吗？🤔 不会是骗人的吧？",
+        "depth": 0,
+        "timestamp": "2026-03-05 18:36:19"
+      },
+      {
+        "comment_id": 8,
+        "parent_id": null,
+        "agent_role": "passerby",
+        "content": "这视频有点奇怪吧？感觉不太对劲啊🤔大家觉得呢？",
+        "depth": 0,
+        "timestamp": "2026-03-05 18:36:20"
+      },
+      {
+        "comment_id": 9,
+        "parent_id": 3,
+        "agent_role": "witness",
+        "content": "我当时就在现场，这个视频根本没反映真实情况！提到的“回到起点”完全是断章取义，我听到的对话和场景都跟这个视频不一样。那时气氛很紧张，没人说那些话。感觉这个视频被剪辑过，想误导观众。你有没有想过这可能是故意的？",
+        "depth": 1,
+        "timestamp": "2026-03-05 18:36:23"
+      },
+      {
+        "comment_id": 10,
+        "parent_id": 4,
+        "agent_role": "passerby",
+        "content": "我也觉得这视频有点奇怪，感觉像是做过手脚，有点不对劲。🤔",
+        "depth": 1,
+        "timestamp": "2026-03-05 18:36:24"
+      }
+    ]
+  }
+}
