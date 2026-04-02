@@ -83,7 +83,7 @@ python run_misguard.py \
     --frames_dir /path/to/frames \
     --comments_dir outputs/comments \
     --output outputs/predictions.json \
-    --model gpt-4o-mini
+    --model gpt-5
 ```
 
 Arguments:
