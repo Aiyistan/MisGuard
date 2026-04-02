@@ -1,4 +1,4 @@
-# MisGuard: Video Misinformation Detection Benchmark
+# When Comments Override Evidence: Social Consensus as a Failure Mode in Video Misinformation Detection
 
 This repository contains the code for the paper:
 **"The Echo Chamber Effect: Benchmarking Video Misinformation Detection Under Synthetic Social Consensus"**
