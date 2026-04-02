@@ -102,9 +102,9 @@ ConAttacker simulates multiple types of social media users to generate adversari
 
 - **Witness**: Claims to be at the scene
 - **Expert**: Provides technical analysis
-- **Knowledge Expert**: Links to external events
+- **Follower**: Echoes mainstream opinions and references external events
 - **Skeptic**: Raises doubts and questions
-- **Passerby**: Regular user reactions
+- **Bystander**: Expresses casual and ordinary user reactions
 
 The framework generates tree-structured comment threads that can mislead video misinformation detectors.
 
