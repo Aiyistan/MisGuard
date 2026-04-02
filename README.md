@@ -118,22 +118,16 @@ MisGuard uses a multi-agent reasoning pipeline to detect video misinformation:
 4. **Web Search**: Retrieves external evidence
 5. **Final Decision**: Makes a robust prediction
 
-## Benchmark Statistics
-
-- **72,312** comments across 3 datasets
-- **10** MLLMs evaluated
-- **3** datasets: FakeSV, FakeTT, WildFake
-
 ## Citation
 
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{misguard2024,
+@article{misguard2026,
   title={The Echo Chamber Effect: Benchmarking Video Misinformation Detection Under Synthetic Social Consensus},
   author={Anonymous Authors},
   journal={Anonymous Venue},
-  year={2024}
+  year={2026}
 }
 ```
 
